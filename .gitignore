@@ -1,0 +1,13 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+.Trash/
+
+# Secret keys
+API.plist
